@@ -15,3 +15,6 @@ Convert the given minute into no.of years
 sample switch_case program
 ![image](https://user-images.githubusercontent.com/52662298/113827470-f5d6f900-97a0-11eb-8ffa-b004fb2ef898.png)
 
+# Task 4
+Addition of a matrix
+![image](https://user-images.githubusercontent.com/52662298/114006006-b3371e80-987d-11eb-8a70-f0a48b1db6d7.png)
