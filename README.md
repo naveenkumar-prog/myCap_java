@@ -18,3 +18,7 @@ sample switch_case program
 # Task 4
 Addition of a matrix
 ![image](https://user-images.githubusercontent.com/52662298/114006006-b3371e80-987d-11eb-8a70-f0a48b1db6d7.png)
+
+# Task 5
+Displaying Employee Details 
+![image](https://user-images.githubusercontent.com/52662298/114015063-ef22b180-9886-11eb-8c2e-199378eb774c.png)
