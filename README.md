@@ -26,3 +26,12 @@ Displaying Employee Details
 # Task 6
 Prime number Challenge
 ![image](https://user-images.githubusercontent.com/52662298/114121717-7a925600-990c-11eb-9c67-b0a9f50e658c.png)
+
+# Task 7
+Print the Fibanocci series up to the given term
+![image](https://user-images.githubusercontent.com/52662298/114124444-1a9eae00-9912-11eb-98fa-6c510f8a459b.png)
+
+
+# Task 8
+print the nth fibannoci term
+![image](https://user-images.githubusercontent.com/52662298/114124483-330ec880-9912-11eb-8846-b20ad478903f.png)
