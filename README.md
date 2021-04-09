@@ -22,3 +22,7 @@ Addition of a matrix
 # Task 5
 Displaying Employee Details 
 ![image](https://user-images.githubusercontent.com/52662298/114015063-ef22b180-9886-11eb-8c2e-199378eb774c.png)
+
+# Task 6
+Prime number Challenge
+![image](https://user-images.githubusercontent.com/52662298/114121717-7a925600-990c-11eb-9c67-b0a9f50e658c.png)
